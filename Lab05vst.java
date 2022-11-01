@@ -26,12 +26,13 @@ public class Lab05vst extends Applet {
         {
             g.drawLine(x2-p,y2,x1,y1-p);
 
-            y2=640;
+            y2 = 640;
             y1 += 5;
         }
 
-        for (int p = 0; p < 965; p +=14) {
-            g.drawLine(y1-p,x1,y2,x2-p);
+
+
+        }
 
 
 
@@ -44,9 +45,9 @@ public class Lab05vst extends Applet {
 
 
 
-                               }
 
-                                     }
+
+
 
 
 
